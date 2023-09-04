@@ -1,0 +1,8 @@
+[mongodb]
+mongodb.joindevops.shop
+
+[catalogue]
+catalogue.joindevops.shop
+
+[web]
+web.joindevops.shop
